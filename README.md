@@ -6,6 +6,8 @@ I'm a **Full-Stack Developer** with a focus on building modern, dynamic web appl
 
 ### 🚀 About Me
 - 🌱 Currently diving deeper into **Next.js**
+- 🛠️ Front-End: React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Redux
+- 🛠️ Back-End: Java, Spring Boot, Node, Hibernate, SQL.
 - 🔄 Passionate about building **full-stack solutions**
 - 🌎 Based in **Atlanta**
 
